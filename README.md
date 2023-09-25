@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Althaf Hussain
 - 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me malthaf989@gmail.com
 
