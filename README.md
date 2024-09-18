@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malthaf9&label=Profile%20views&color=0e75b6&style=flat" alt="malthaf9" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m currently learning **Fullstack Developer**
 
 - 📫 How to reach me **malthaf989@gmail.com**
 
