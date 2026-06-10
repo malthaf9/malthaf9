@@ -5,7 +5,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-- 💻 **DevOps Engineer** with **3 years of hands-on experience** in managing **CI/CD pipelines**, **containerization**, and **cloud automation** using tools like **Docker**, **Kubernetes**, **AWS**, **Terraform**, and **Jenkins**.
+- 💻 **DevOps Engineer** with **5+ years of hands-on experience** in managing **CI/CD pipelines**, **containerization**, and **cloud automation** using tools like **Docker**, **Kubernetes**, **AWS**, **Terraform**, and **Jenkins**.
 - 🌱 Currently focused on **upskilling** and **exploring advanced DevOps practices**, including **Infrastructure as Code (IaC)**, **Kubernetes orchestration**, **cloud-native architecture**, and **monitoring & logging** solutions.
 - 🛠 Passionate about **automating workflows**, **optimizing infrastructure**, and **streamlining application deployments**.
 - 🎯 Aiming to become an **expert** in **cloud automation** and **DevOps best practices** to drive efficiency, scalability, and high availability in production environments.
